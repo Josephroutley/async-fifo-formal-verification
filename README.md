@@ -3,7 +3,7 @@ This project focuses on designing a robust **asynchronous FIFO (First-In-First-O
 
 Unlike standard simulation-based verification, this project utilizes **Formal Verification** to mathematically prove the absence of metastability issues and pointer errors.
 
-## Learning Objectives (NVIDIA Target Skills)
+## Learning Objectives
 * **CDC Design:** Implementing Gray code pointer synchronizers to prevent metastability.
 * **Formal Verification:** Using **SymbiYosys** to prove safety properties (assertions) rather than just simulating random vectors.
 * **SystemVerilog Assertions (SVA):** Writing immediate and concurrent assertions for FIFO full/empty states.
